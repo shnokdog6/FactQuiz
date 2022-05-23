@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Question>
+	<Question>
+		<Text>В какой стране запрещено целоваться на вокзалах и в поездах?</Text>
+		<Answer>Франция</Answer>
+		<Image>1</Image>
+	</Question>
+	<Question>
+		<Text>Единственная в мире страна с коралловыми дорогами?</Text>
+		<Answer>Гуам</Answer>
+		<Image>2</Image>
+	</Question>
+	<Question>
+		<Text>В какой стране законодательно допускалась отправка детей по почте до 1913 года?</Text>
+		<Answer>США</Answer>
+		<Image>3</Image>
+	</Question>
+	<Question>
+		<Text>Страна с самыми толстыми гражданами?</Text>
+		<Answer>Науру</Answer>
+		<Image>4</Image>
+	</Question>
+	<Question>
+		<Text>Страна с наибольшим количеством людей, сидящих за решеткой?</Text>
+		<Answer>США</Answer>
+		<Image>5</Image>
+	</Question>
+	<Question>
+		<Text>Страна с самым большим количеством граждан, проживающих НЕ в ней?</Text>
+		<Answer>Мальта</Answer>
+		<Image>6</Image>
+	</Question>
+	<Question>
+		<Text>Страна, которая с наибольшей вероятностью скоро окажется под водой?</Text>
+		<Answer>Мальдивы</Answer>
+		<Image>7</Image>
+	</Question>
+	<Question>
+		<Text>Самой бедной и экономически отсталой страной является?</Text>
+		<Answer>Гаити</Answer>
+		<Image>8</Image>
+	</Question>
+	<Question>
+		<Text>До 1832 года в этой стране было только 2 университета</Text>
+		<Answer>Англия</Answer>
+		<Image>9</Image>
+	</Question>
+	<Question>
+		<Text>В этой стране очень любят пить чай, даже больше, чем в Великобритании</Text>
+		<Answer>Турция</Answer>
+		<Image>10</Image>
+	</Question>
+	<Question>
+		<Text>В этой стране побег из тюрьмы — не преступление</Text>
+		<Answer>Германия</Answer>
+		<Image>11</Image>
+	</Question>
+</Question>
+
